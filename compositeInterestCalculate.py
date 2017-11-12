@@ -1,6 +1,6 @@
 import calendar
 
-startingDebt = 32374.61
+startingDebt = ????
 outstandingDebt= startingDebt
 payed=0
 interest_rate=6.1
